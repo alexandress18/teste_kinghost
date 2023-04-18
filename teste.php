@@ -1,3 +1,3 @@
 <?php
-echo "Master agora";
+echo "Master agora 2.0";
 ?>
